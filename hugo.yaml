@@ -20,14 +20,40 @@ languages:
     languageCode: en-US
     contentDir: content/en
     title: Ucho-ten
-    description: let's try Ucho-ten
-    weight: 1
+    description: Be yourself, Explore yourself.
+    weight: 2
+    menus:
+      main:
+        - url: /en/
+          name: Home
+          identifier: home
+          pre: "<i class='icon icon-home'></i>"
+          weight: 1
+        - url: /en/docs
+          name: How to use
+          identifier: docs
+          pre: "<i class='icon icon-book'></i>"
+          weight: 2
   ja:
     languageName: Japanese
     languageCode: ja-JP
-    contentDir: conetent/ja
+    contentDir: content/ja
     title: Ucho-ten
-    description: 穏やかなSNSをあなたに。
+    description: Yo! ブルスコしてるかい？
+    weight: 1
+    menus:
+      main:
+        - url: /
+          name: トップページ
+          identifier: home
+          pre: "<i class='icon icon-home'></i>"
+          weight: 1
+        - url: /docs
+          name: 使い方
+          identifier: docs
+          pre: "<i class='icon icon-book'></i>"
+          weight: 2
+
 
 params:
 
@@ -48,7 +74,7 @@ params:
     youtube: ''
     facebook: ''
     x: ''
-    Bluesky: 'https://bsky.app/profile/ucho-ten.net'
+    Bluesky: 'profile/ucho-ten.net'
 
   ads:
     googleAdSense: ''
@@ -81,7 +107,6 @@ params:
 
 menu:
   main:
-
     - url: /
       name: Home
       identifier: home

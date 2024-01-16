@@ -1,0 +1,35 @@
+- title: 使い方
+  pages:
+    - title: 概要
+    - title: 投稿の削除・通報・ミュート
+    - title: フィードの切り替え
+    - title: PWA追加方法
+
+- title: ⛺機能一覧
+  pages:
+    - title: タイムライン
+    - title: ミュートワード
+    - title: ブックマーク
+    - title: スマホへのプッシュ通知
+    - title: u-tab
+    - title: 複数アカウント切り替え
+    - title: 翻訳機能
+    - title: 引いて更新
+    - title: その他の細かい機能
+
+
+- title: ℹ️よくある質問
+  pages:
+    - title: ログインできない
+    - title: ミュートワードが効かない
+    - title: ブックマークが消えた
+
+    - title: バグを見つけた・報告・要望したい
+
+- title: プライバシーポリシー
+  pages:
+    - title: 準備中
+
+- title: 利用規約
+  pages:
+    - title: 準備中
