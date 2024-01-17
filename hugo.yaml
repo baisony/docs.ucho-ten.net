@@ -39,7 +39,7 @@ languages:
     languageCode: ja-JP
     contentDir: content/ja
     title: Ucho-ten
-    description: Yo! ブルスコしてるかい？
+    description: ドキュメントページ
     weight: 1
     menus:
       main:
@@ -118,3 +118,10 @@ menu:
       identifier: docs
       pre: "<i class='icon icon-book'></i>"
       weight: 2
+
+staticDir:
+  - static
+  - static/img
+  - static/css
+  - static/js
+  - static/fonts

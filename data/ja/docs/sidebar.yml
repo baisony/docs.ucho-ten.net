@@ -1,13 +1,10 @@
 - title: 使い方
   pages:
     - title: 概要
-    - title: 投稿の削除・通報・ミュート
-    - title: フィードの切り替え
-    - title: PWA追加方法
+    - title: PWA
 
-- title: ⛺機能一覧
+- title: ⛺機能一覧 (準備中)
   pages:
-    - title: タイムライン
     - title: ミュートワード
     - title: ブックマーク
     - title: スマホへのプッシュ通知
@@ -18,7 +15,7 @@
     - title: その他の細かい機能
 
 
-- title: ℹ️よくある質問
+- title: ℹ️よくある質問 (準備中)
   pages:
     - title: ログインできない
     - title: ミュートワードが効かない
@@ -26,10 +23,10 @@
 
     - title: バグを見つけた・報告・要望したい
 
-- title: プライバシーポリシー
+- title: プライバシーポリシー (準備中)
   pages:
     - title: 準備中
 
-- title: 利用規約
+- title: 利用規約 (準備中)
   pages:
     - title: 準備中
