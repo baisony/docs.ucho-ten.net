@@ -1,2 +1,3 @@
 User-agent: *
 Sitemap: https://docs.ucho-ten.net/sitemap.xml
+Sitemap: https://docs.ucho-ten.net/en/sitemap.xml
